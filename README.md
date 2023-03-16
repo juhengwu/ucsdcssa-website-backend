@@ -161,6 +161,7 @@ TOKEN = "跟着上方注释的教程走，这里更换为你网络请求的token
 然后像[项目运行要求](#项目运行要求)中的部分一样，有两种方法更新：
 
 1. 根据系统，运行`utils`文件夹中的`format_courses_and_department.bat`或`format_courses_and_department.sh`文件。
+   - `ubuntu` 系统第一次需要先在`utils`目录下运行`chmod +x format_courses_and_department.sh`来给予执行权限。
 2. 手动查看并修改所有图片的后缀为`.jpg`，然后手动运行`utils`文件夹中的`get_courses_grouped_json.py`文件来生成`assets`
    文件夹中关于课程分组的`courses_grouped.json`文件。
 
@@ -184,6 +185,7 @@ TOKEN = "跟着上方注释的教程走，这里更换为你网络请求的token
 确保上方都更新好之后，删除原有的`department.json`文件然后有两种方法生成新的`department.json`文件：
 
 1. 根据系统，运行`utils`文件夹中的`format_courses_and_department.bat`或`format_courses_and_department.sh`文件。
+   - `ubuntu` 系统第一次需要先在`utils`目录下运行`chmod +x format_courses_and_department.sh`来给予执行权限。
 2. 手动查看并修改所有图片的后缀为`.jpg`，然后手动运行`utils`文件夹中的`get_department_json.py`文件来生成`assets`
    文件夹中关于部门信息的`department.json`文件。
 
