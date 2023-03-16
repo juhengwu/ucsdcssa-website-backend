@@ -30,6 +30,7 @@ app.register_blueprint(department_bp)
 app.register_blueprint(article_bp)
 
 
+# 测试接口
 @app.route('/')
 def hello_world():
     return "欢迎使用UCSD CSSA官网后端API。具体接口用法请参考GitHub仓库里的README.md。仓库地址：https://github.com/TallMessiWu/ucsdcssa-website-backend"

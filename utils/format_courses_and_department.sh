@@ -10,3 +10,4 @@ rename 's/\.JPG/\.jpg/' *
 cd ../../utils
 python3 get_courses_grouped_json.py
 python3 get_department_json.py
+
