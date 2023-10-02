@@ -6,6 +6,7 @@ def get_department_json():
     with open("../assets/department_description.json", "r", encoding="utf-8") as f:
         department_description = json.load(f)
     files = list(os.walk("../assets/members-photos"))[0][2]
+    files = [i for i in files if i.endswith(".jpg")] # 过滤掉非jpg文件
     members = sorted([i.split(".")[0].split("-") for i in files])
     members_grouped = {}
     # 处理成员信息
