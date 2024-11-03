@@ -32,9 +32,11 @@ def get_department_json():
         "新媒体部部长": -7,
         "宣传部部长": -8,
         "学术部部长": -9,
-        "部长": -10,
-        # 没有-11是因为这里给各种组长或其他职位留了个空位
-        "部员": -12
+        "职业发展部部长": -10,
+        "研究生部部长": -11,
+        "部长": -12,
+        # 没有-13是因为这里给各种组长或其他职位留了个空位
+        "部员": -14
     }
     for department, members_dict in members_grouped.items():
         members_grouped[department]["members"] = dict(
