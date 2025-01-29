@@ -52,6 +52,7 @@ def get_department_json():
     for department, members_dict in members_grouped.items():
         department_description[department]["members"] = members_dict["members"]
 
+            
     # 注意这里写入的是department.json而不是department_description.json。
     # 这是因为department_description.json是用来生成department.json的。
     with open("../assets/department.json", "w", encoding="utf-8") as f:
