@@ -1,11 +1,12 @@
 import json
 import os
+import argparse
 
 
-def get_department_json():
-    with open("../assets/department_description.json", "r", encoding="utf-8") as f:
+def get_department_json(year):
+    with open(f"../{year}-assets/department_description.json", "r", encoding="utf-8") as f:
         department_description = json.load(f)
-    files = list(os.walk("../assets/members-photos"))[0][2]
+    files = list(os.walk(f"../{year}-assets/members-photos"))[0][2]
     files = [i for i in files if i.endswith(".jpg")] # 过滤掉非jpg文件
     members = sorted([i.split(".")[0].split("-") for i in files])
     members_grouped = {}
@@ -55,10 +56,15 @@ def get_department_json():
             
     # 注意这里写入的是department.json而不是department_description.json。
     # 这是因为department_description.json是用来生成department.json的。
-    with open("../assets/department.json", "w", encoding="utf-8") as f:
+    with open(f"../{year}-assets/department.json", "w", encoding="utf-8") as f:
         json.dump(department_description, f, ensure_ascii=False, indent=4)
     print("脚本执行完毕")
 
 
-if __name__ == '__main__':
-    get_department_json()
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Process department JSON and photos.")
+    parser.add_argument("year", type=str, help="year of the department photos")
+    args = parser.parse_args()
+
+    result = get_department_json(args.year)
+    #print(result)
