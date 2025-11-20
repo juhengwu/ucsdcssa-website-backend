@@ -9,29 +9,41 @@
                 "position": "部长",
                 "photoSrc": "开发部-伍钜恒-部长.jpg"
             },
-            "龚韵杰": {
+            "黄炜琳": {
                 "position": "部员",
-                "photoSrc": "开发部-龚韵杰-部员.jpg"
+                "photoSrc": "开发部-黄炜琳-部员.jpg"
             },
-            "高乐怡": {
+            "黄文瑀": {
                 "position": "部员",
-                "photoSrc": "开发部-高乐怡-部员.jpg"
+                "photoSrc": "开发部-黄文瑀-部员.jpg"
             },
-            "邱晨朔": {
+            "高山": {
                 "position": "部员",
-                "photoSrc": "开发部-邱晨朔-部员.jpg"
+                "photoSrc": "开发部-高山-部员.jpg"
             },
-            "毛若菲": {
+            "马思露": {
                 "position": "部员",
-                "photoSrc": "开发部-毛若菲-部员.jpg"
+                "photoSrc": "开发部-马思露-部员.jpg"
+            },
+            "胡越溪": {
+                "position": "部员",
+                "photoSrc": "开发部-胡越溪-部员.jpg"
+            },
+            "李泽明": {
+                "position": "部员",
+                "photoSrc": "开发部-李泽明-部员.jpg"
             },
             "戚轩睿": {
                 "position": "部员",
                 "photoSrc": "开发部-戚轩睿-部员.jpg"
             },
-            "姚均睿": {
+            "彭敬博": {
                 "position": "部员",
-                "photoSrc": "开发部-姚均睿-部员.jpg"
+                "photoSrc": "开发部-彭敬博-部员.jpg"
+            },
+            "娄琬峥": {
+                "position": "部员",
+                "photoSrc": "开发部-娄琬峥-部员.jpg"
             }
         }
     },
@@ -45,13 +57,13 @@
                 "position": "部长",
                 "photoSrc": "人事部-杜静灵-部长.jpg"
             },
+            "许嘉辰": {
+                "position": "部员",
+                "photoSrc": "人事部-许嘉辰-部员.jpg"
+            },
             "罗昱欣": {
                 "position": "部员",
                 "photoSrc": "人事部-罗昱欣-部员.jpg"
-            },
-            "祝子安": {
-                "position": "部员",
-                "photoSrc": "人事部-祝子安-部员.jpg"
             },
             "王禹涵": {
                 "position": "部员",
@@ -61,9 +73,9 @@
                 "position": "部员",
                 "photoSrc": "人事部-李嘉茵-部员.jpg"
             },
-            "席吉阳": {
+            "李俊尚": {
                 "position": "部员",
-                "photoSrc": "人事部-席吉阳-部员.jpg"
+                "photoSrc": "人事部-李俊尚-部员.jpg"
             },
             "吴佳龙": {
                 "position": "部员",
@@ -72,6 +84,10 @@
             "危韵怡": {
                 "position": "部员",
                 "photoSrc": "人事部-危韵怡-部员.jpg"
+            },
+            "刘行易": {
+                "position": "部员",
+                "photoSrc": "人事部-刘行易-部员.jpg"
             }
         }
     },
@@ -85,25 +101,57 @@
                 "position": "副部长",
                 "photoSrc": "外联部-叶祖麟-副部长.jpg"
             },
-            "贾绎煊": {
-                "position": "部员",
-                "photoSrc": "外联部-贾绎煊-部员.jpg"
+            "廖诗砚": {
+                "position": "部长",
+                "photoSrc": "外联部-廖诗砚-部长.jpg"
             },
-            "诗砚": {
+            "马润钰": {
                 "position": "部员",
-                "photoSrc": "外联部-诗砚-部员.jpg"
+                "photoSrc": "外联部-马润钰-部员.jpg"
             },
-            "蔡雨峰": {
+            "赵子露": {
                 "position": "部员",
-                "photoSrc": "外联部-蔡雨峰-部员.jpg"
+                "photoSrc": "外联部-赵子露-部员.jpg"
+            },
+            "欧阳锦鸿": {
+                "position": "部员",
+                "photoSrc": "外联部-欧阳锦鸿-部员.jpg"
+            },
+            "杨禹予": {
+                "position": "部员",
+                "photoSrc": "外联部-杨禹予-部员.jpg"
+            },
+            "杜淮昱": {
+                "position": "部员",
+                "photoSrc": "外联部-杜淮昱-部员.jpg"
+            },
+            "李昕洋": {
+                "position": "部员",
+                "photoSrc": "外联部-李昕洋-部员.jpg"
             },
             "李君昊": {
                 "position": "部员",
                 "photoSrc": "外联部-李君昊-部员.jpg"
             },
-            "孙昊哲": {
+            "曹城玮": {
                 "position": "部员",
-                "photoSrc": "外联部-孙昊哲-部员.jpg"
+                "photoSrc": "外联部-曹城玮-部员.jpg"
+            },
+            "晏语佳": {
+                "position": "部员",
+                "photoSrc": "外联部-晏语佳-部员.jpg"
+            },
+            "卢天歌": {
+                "position": "部员",
+                "photoSrc": "外联部-卢天歌-部员.jpg"
+            },
+            "刘沁鑫": {
+                "position": "部员",
+                "photoSrc": "外联部-刘沁鑫-部员.jpg"
+            },
+            "刘一帆": {
+                "position": "部员",
+                "photoSrc": "外联部-刘一帆-部员.jpg"
             },
             "全世峰": {
                 "position": "部员",
@@ -125,41 +173,45 @@
                 "position": "部长",
                 "photoSrc": "文体部-夏雨梦-部长.jpg"
             },
-            "黄炜琳": {
+            "雷欣宇": {
                 "position": "部员",
-                "photoSrc": "文体部-黄炜琳-部员.jpg"
+                "photoSrc": "文体部-雷欣宇-部员.jpg"
             },
-            "陈姿睿": {
+            "邓嘉玮": {
                 "position": "部员",
-                "photoSrc": "文体部-陈姿睿-部员.jpg"
+                "photoSrc": "文体部-邓嘉玮-部员.jpg"
             },
-            "杨知非": {
+            "耿艾原": {
                 "position": "部员",
-                "photoSrc": "文体部-杨知非-部员.jpg"
+                "photoSrc": "文体部-耿艾原-部员.jpg"
+            },
+            "申嘉奇": {
+                "position": "部员",
+                "photoSrc": "文体部-申嘉奇-部员.jpg"
+            },
+            "李绪龙": {
+                "position": "部员",
+                "photoSrc": "文体部-李绪龙-部员.jpg"
             },
             "彭康信": {
                 "position": "部员",
                 "photoSrc": "文体部-彭康信-部员.jpg"
             },
-            "张芷芊": {
-                "position": "部员",
-                "photoSrc": "文体部-张芷芊-部员.jpg"
-            },
             "刘泽桐": {
                 "position": "部员",
                 "photoSrc": "文体部-刘泽桐-部员.jpg"
-            },
-            "刘佳和": {
-                "position": "部员",
-                "photoSrc": "文体部-刘佳和-部员.jpg"
             },
             "何佳鸿": {
                 "position": "部员",
                 "photoSrc": "文体部-何佳鸿-部员.jpg"
             },
-            "万丰恺": {
+            "于芳洁": {
                 "position": "部员",
-                "photoSrc": "文体部-万丰恺-部员.jpg"
+                "photoSrc": "文体部-于芳洁-部员.jpg"
+            },
+            "万丰凯": {
+                "position": "部员",
+                "photoSrc": "文体部-万丰凯-部员.jpg"
             }
         }
     },
@@ -169,77 +221,65 @@
         "recruit": "<p><strong>新媒体运营组</strong></p>\n\n<p>● 有抖音、微博、抖音或Instagram账号管理运营相关经验</p>\n\n<p>● 每天在社交媒体5G冲浪，善于捕捉热点话题，对于华人留学生关注的资讯有自己的见解</p>\n\n<p>● 热爱生活，并且愿意通过多种社交媒体形式分享学生日常。</p>\n\n<p>● 有创新意识，能够进行持续稳定内容产出</p>\n\n<p><strong>微信公众号组</strong></p>\n\n<p>● 运营和管理CSSA官方账号&ldquo;留学在UCSD&rdquo;，定期发送和制作专栏文章，这里是你创意的天堂。</p>\n\n<p>● 有公众号排版经验，熟悉秀米等网站，或者愿意学习。</p>\n\n<p>&nbsp;</p>\n\n<p>PS:请准备一份简历报名时作为附件上传到报名表～</p>\n\n<p>有任何关于新媒体部申请的问题可以发送至邮箱:</p>\n\n<p>ucsdcssa1985@gmail.com</p>\n",
         "slogan": "快来加入我们！你有创意，我们有资源！",
         "members": {
+            "莎莎": {
+                "position": "副部长",
+                "photoSrc": "新媒体部-莎莎-副部长.jpg"
+            },
             "张纯依": {
                 "position": "部长",
                 "photoSrc": "新媒体部-张纯依-部长.jpg"
             },
-            "张星露": {
-                "position": "副部长",
-                "photoSrc": "新媒体部-张星露-副部长.jpg"
-            },
-            "郑媛诗怡": {
+            "陈健航": {
                 "position": "部员",
-                "photoSrc": "新媒体部-郑媛诗怡-部员.jpg"
+                "photoSrc": "新媒体部-陈健航-部员.jpg"
+            },
+            "陆珅杰": {
+                "position": "部员",
+                "photoSrc": "新媒体部-陆珅杰-部员.jpg"
             },
             "蔡心怡": {
                 "position": "部员",
                 "photoSrc": "新媒体部-蔡心怡-部员.jpg"
             },
-            "聂雨洲": {
+            "蔡奕明": {
                 "position": "部员",
-                "photoSrc": "新媒体部-聂雨洲-部员.jpg"
+                "photoSrc": "新媒体部-蔡奕明-部员.jpg"
+            },
+            "蒋砚": {
+                "position": "部员",
+                "photoSrc": "新媒体部-蒋砚-部员.jpg"
             },
             "沈棋沣": {
                 "position": "部员",
                 "photoSrc": "新媒体部-沈棋沣-部员.jpg"
             },
-            "杜曼榕": {
+            "李恩沛": {
                 "position": "部员",
-                "photoSrc": "新媒体部-杜曼榕-部员.jpg"
+                "photoSrc": "新媒体部-李恩沛-部员.jpg"
             },
-            "李漆家豪": {
+            "张博皓": {
                 "position": "部员",
-                "photoSrc": "新媒体部-李漆家豪-部员.jpg"
+                "photoSrc": "新媒体部-张博皓-部员.jpg"
             },
-            "张登": {
+            "宓逍": {
                 "position": "部员",
-                "photoSrc": "新媒体部-张登-部员.jpg"
-            },
-            "小迪": {
-                "position": "部员",
-                "photoSrc": "新媒体部-小迪-部员.jpg"
-            },
-            "宋若渝": {
-                "position": "部员",
-                "photoSrc": "新媒体部-宋若渝-部员.jpg"
-            },
-            "孙艺桐": {
-                "position": "部员",
-                "photoSrc": "新媒体部-孙艺桐-部员.jpg"
+                "photoSrc": "新媒体部-宓逍-部员.jpg"
             },
             "周子程": {
                 "position": "部员",
                 "photoSrc": "新媒体部-周子程-部员.jpg"
             },
-            "周奕": {
-                "position": "部员",
-                "photoSrc": "新媒体部-周奕-部员.jpg"
-            },
-            "周佳一": {
-                "position": "部员",
-                "photoSrc": "新媒体部-周佳一-部员.jpg"
-            },
-            "刘芮希": {
-                "position": "部员",
-                "photoSrc": "新媒体部-刘芮希-部员.jpg"
-            },
             "冯子龙": {
                 "position": "部员",
                 "photoSrc": "新媒体部-冯子龙-部员.jpg"
             },
-            "许梦": {
+            "于文睿": {
                 "position": "部员",
-                "photoSrc": "新媒体部-许梦-部员.jpg"
+                "photoSrc": "新媒体部-于文睿-部员.jpg"
+            },
+            "丛程": {
+                "position": "部员",
+                "photoSrc": "新媒体部-丛程-部员.jpg"
             }
         }
     },
@@ -249,9 +289,33 @@
         "recruit": "<p><strong>摄制组：</strong></p>\n\n<p>摄制组本次招新类型:对影片剪辑/照片拍摄编辑感兴趣的同学符合以下条件者优先:</p>\n\n<p>● 拥有并熟练操作照相机设备的</p>\n\n<p>● 能使用一种或多种视频后期处理软件，如剪映/Adobe Premiere/ Final Cut Pro/ After Effect等</p>\n\n<p>● 能使用一种或多种图片后期处理软件，如VSCO/ Photoshop/ Lightroom等</p>\n\n<p>&nbsp;</p>\n\n<p>如果你的专业与media/ communication 相关，请在简历中注明。&nbsp;</p>\n\n<p>PS:除简历外，报名摄制组的同学请把作品或作品链接在报名时作为附件上传到报名表。</p>\n\n<p>邮箱地址:ucsdcssa1985@gmail.com</p>\n\n<p>&nbsp;</p>\n\n<p><strong>设计组:</strong></p>\n\n<p>设计组本次招新类型: 对平面设计有一定知识及经验的同学符合以下条件者优先:</p>\n\n<p>● 善于学习和使用Photoshop、Illustrator及类似的图像处理工具 ● 具有良好的视觉审美能力，有美术功底和喜爱绘画创作</p>\n\n<p>● 具有较好的时间管理能力及沟通能力</p>\n\n<p>如果你的专业与art/design相关，请在简历中注明。</p>\n\n<p>PS:除简历外，报名设计组的同学请把作品或作品链接在报名时作为附件上传到报名表。邮箱地址:</p>\n\n<p>ucsdcssa1985@gmail.com</p>\n",
         "slogan": "我们需要脑洞大开的画手，妙手生花的编辑师，以及下笔如有神的各种文案写手，如果你觉得自己看完介绍已经心潮涌动，那我们迫不及待的想要与你认识，和你迸发出灵感的火花。",
         "members": {
-            "Amber王星瑜": {
+            "刘楚楚": {
+                "position": "副部长",
+                "photoSrc": "宣传部-刘楚楚-副部长.jpg"
+            },
+            "王星瑜": {
                 "position": "部长",
-                "photoSrc": "宣传部-Amber王星瑜-部长.jpg"
+                "photoSrc": "宣传部-王星瑜-部长.jpg"
+            },
+            "胡祖瑞": {
+                "position": "部员",
+                "photoSrc": "宣传部-胡祖瑞-部员.jpg"
+            },
+            "王思涵": {
+                "position": "部员",
+                "photoSrc": "宣传部-王思涵-部员.jpg"
+            },
+            "李展博": {
+                "position": "部员",
+                "photoSrc": "宣传部-李展博-部员.jpg"
+            },
+            "官秀琪": {
+                "position": "部员",
+                "photoSrc": "宣传部-官秀琪-部员.jpg"
+            },
+            "宗建亨": {
+                "position": "部员",
+                "photoSrc": "宣传部-宗建亨-部员.jpg"
             },
             "周皓文": {
                 "position": "部员",
@@ -268,10 +332,6 @@
             "Katherine莫清瑶": {
                 "position": "部员",
                 "photoSrc": "宣传部-Katherine莫清瑶-部员.jpg"
-            },
-            "Coco刘楚楚": {
-                "position": "部员",
-                "photoSrc": "宣传部-Coco刘楚楚-部员.jpg"
             }
         }
     },
@@ -281,13 +341,13 @@
         "recruit": "<h3><strong>招新要求</strong></h3>\n\n<p>我们对新成员的期待：</p>\n\n<ul>\n\t<li>对于学术类的活动有富建设性的想法；有新颖的点子，能和大家一起讨论出吸引人又干货满满的活动。</li>\n\t<li>有积极性、细致负责，能按时完成每一次任务，按时参加每次活动及会议。</li>\n\t<li>严谨细致，确保编写的干货信息准确无误；确保与合作公司的HR沟通及时并合理。</li>\n\t<li>有强大的组织策划能力和执行能力，能承担压力，有意锻炼自己的专业沟通能力和领导才能</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>如果你认为你达到了大部分的期待，但对于一部分尚缺经验，只要你有信心慢慢努力，到达这一部分期待，我们仍欢迎你的加入。</p>\n\n<p>&nbsp;</p>\n\n<h2>你需要准备什么来加入我们呢？</h2>\n\n<p>1. 一份简历，中英兼可。</p>\n\n<p>2. 简短叙述选择加入CSSA以及学术部的理由。</p>\n\n<p>3. Brainstorm学术部可以举办的活动或者编写的推文。</p>\n\n<p>4. 预约面试。</p>\n\n<p>&nbsp;</p>\n\n<p>我们期待你的到来！</p>\n\n<p>邮箱地址：ucsdcssa1985@gmail.com</p>\n\n<p>如果有关于学术部的问题也可以发到这个邮箱！</p>\n",
         "slogan": "在学术部，你可以将自己的学术抱负尽情施展，举办自己喜欢、大众期待的活动。我们欢迎有想法的你加入学术部大家庭！",
         "members": {
-            "冯麒轩": {
-                "position": "部长",
-                "photoSrc": "学术部-冯麒轩-部长.jpg"
-            },
             "李笑晗": {
                 "position": "副部长",
                 "photoSrc": "学术部-李笑晗-副部长.jpg"
+            },
+            "冯麒轩": {
+                "position": "部长",
+                "photoSrc": "学术部-冯麒轩-部长.jpg"
             },
             "闫瑾": {
                 "position": "部员",
@@ -297,6 +357,10 @@
                 "position": "部员",
                 "photoSrc": "学术部-王臻艾-部员.jpg"
             },
+            "曹戈": {
+                "position": "部员",
+                "photoSrc": "学术部-曹戈-部员.jpg"
+            },
             "易宸宇": {
                 "position": "部员",
                 "photoSrc": "学术部-易宸宇-部员.jpg"
@@ -305,13 +369,17 @@
                 "position": "部员",
                 "photoSrc": "学术部-戴佩滢-部员.jpg"
             },
+            "孙艺桐": {
+                "position": "部员",
+                "photoSrc": "学术部-孙艺桐-部员.jpg"
+            },
+            "吴恒霖": {
+                "position": "部员",
+                "photoSrc": "学术部-吴恒霖-部员.jpg"
+            },
             "匡晓乾": {
                 "position": "部员",
                 "photoSrc": "学术部-匡晓乾-部员.jpg"
-            },
-            "刘行易": {
-                "position": "部员",
-                "photoSrc": "学术部-刘行易-部员.jpg"
             }
         }
     },
@@ -325,21 +393,25 @@
                 "position": "部长",
                 "photoSrc": "职业发展部-王海涵-部长.jpg"
             },
-            "张崇达": {
+            "黄茜儿": {
                 "position": "部员",
-                "photoSrc": "职业发展部-张崇达-部员.jpeg"
+                "photoSrc": "职业发展部-黄茜儿-部员.jpg"
             },
-            "程昱畅": {
+            "郭怡萱": {
                 "position": "部员",
-                "photoSrc": "职业发展部-程昱畅-部员.jpeg"
+                "photoSrc": "职业发展部-郭怡萱-部员.jpg"
             },
-            "陈佳宁": {
+            "容诗颖": {
                 "position": "部员",
-                "photoSrc": "职业发展部-陈佳宁-部员.png"
+                "photoSrc": "职业发展部-容诗颖-部员.jpg"
             },
-            "陈嘉宝": {
+            "孙潘善水": {
                 "position": "部员",
-                "photoSrc": "职业发展部-陈嘉宝-部员.png"
+                "photoSrc": "职业发展部-孙潘善水-部员.jpg"
+            },
+            "周相坤": {
+                "position": "部员",
+                "photoSrc": "职业发展部-周相坤-部员.jpg"
             }
         }
     },
@@ -355,54 +427,54 @@
         "recruit": "<p><strong>学生会主席</strong></p>\n\n<ul>\n\t<li>学生会的最高领导人，负责制定和执行学生会的发展战略，代表学生会对外联络和沟通，领导和监督各部门的工作，处理重大问题和危机。</li>\n</ul>\n\n<p><strong>学生会副主席</strong></p>\n\n<ul>\n\t<li>学生会主席的助手和代理人，负责协助主席履行职责，分管一定范围内的工作，承担主席交办的任务，在主席缺席或不能履行职务时代行主席职权。</li>\n</ul>\n\n<p><strong>学生会秘书</strong></p>\n\n<ul>\n\t<li>学生会主席团下的负责协助主席团进行决策工作，调查了解和监督学生会各职能部门、各院系学生分会工作落实情况的一个部门，主要负责学生会活动经费的管理、学生会档案整理、学生会会议的记录、内部制度、日常事务的管理等。</li>\n</ul>\n\n<p><strong>学生会部长</strong></p>\n\n<ul>\n\t<li>学生会各个部门的负责人，负责组织和实施本部门的工作计划和活动方案，管理本部门的干事队伍，向副主席或秘书汇报工作情况。</li>\n</ul>\n",
         "slogan": "快来参与主席团的竞选吧！你有才干，我们有挑战！",
         "members": {
-          "韩欣彤": {
-            "position": "主席",
-            "photoSrc": "主席团-韩欣彤-主席.jpg"
-          },
-          "赵刘旭鸿": {
-            "position": "副主席",
-            "photoSrc": "主席团-赵刘旭鸿-副主席.jpg"
-          },
-          "傅重钧": {
-            "position": "副主席",
-            "photoSrc": "主席团-傅重钧-副主席.jpg"
-          },
-          "彭承寺": {
-            "position": "秘书长",
-            "photoSrc": "主席团-彭承寺-秘书长.jpg"
-          },
-          "伍钜恒": {
-            "position": "开发部部长",
-            "photoSrc": "主席团-伍钜恒-开发部部长.jpg"
-          },
-          "冯麒轩": {
-            "position": "学术部部长",
-            "photoSrc": "主席团-冯麒轩-学术部部长.jpg"
-          },
-          "夏雨梦": {
-            "position": "外联部部长",
-            "photoSrc": "主席团-夏雨梦-文体部部长.jpg"
-          },
-          "杜静灵": {
-            "position": "人事部部长",
-            "photoSrc": "主席团-杜静灵-人事部部长.jpg"
-          },
-          "张纯依": {
-            "position": "新媒体部部长",
-            "photoSrc": "主席团-张纯依-新媒体部部长.jpg"
-          },
-          "王星瑜": {
-            "position": "宣传部部长",
-            "photoSrc": "主席团-王星瑜-宣传部部长.jpg"
-          },
-          "王海涵": {
-            "position": "职发部部长",
-            "photoSrc": "主席团-王海涵-职发部部长.jpg"
-          },
-          "叶祖麟": {
-            "position": "外联部副部长",
-            "photoSrc": "主席团-叶祖麟-外联部部长.jpg"
-          }
+            "韩欣彤": {
+                "position": "主席",
+                "photoSrc": "主席团-韩欣彤-主席.jpg"
+            },
+            "赵刘旭鸿": {
+                "position": "副主席",
+                "photoSrc": "主席团-赵刘旭鸿-副主席.jpg"
+            },
+            "傅重钧": {
+                "position": "副主席",
+                "photoSrc": "主席团-傅重钧-副主席.jpg"
+            },
+            "伍钜恒": {
+                "position": "开发部部长",
+                "photoSrc": "主席团-伍钜恒-开发部部长.jpg"
+            },
+            "杜静灵": {
+                "position": "人事部部长",
+                "photoSrc": "主席团-杜静灵-人事部部长.jpg"
+            },
+            "廖诗砚": {
+                "position": "外联部部长",
+                "photoSrc": "主席团-廖诗砚-外联部部长.jpg"
+            },
+            "夏雨梦": {
+                "position": "文体部部长",
+                "photoSrc": "主席团-夏雨梦-文体部部长.jpg"
+            },
+            "张纯依": {
+                "position": "新媒体部部长",
+                "photoSrc": "主席团-张纯依-新媒体部部长.jpg"
+            },
+            "王星瑜": {
+                "position": "宣传部部长",
+                "photoSrc": "主席团-王星瑜-宣传部部长.jpg"
+            },
+            "冯麒轩": {
+                "position": "学术部部长",
+                "photoSrc": "主席团-冯麒轩-学术部部长.jpg"
+            },
+            "王海涵": {
+                "position": "职发部部长",
+                "photoSrc": "主席团-王海涵-职发部部长.jpg"
+            },
+            "彭承寺": {
+                "position": "秘书长",
+                "photoSrc": "主席团-彭承寺-秘书长.jpg"
+            }
         }
     },
     "荣誉部员": {
